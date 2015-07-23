@@ -7,3 +7,15 @@
 [submodule "LiDanyang"]
 	path = LiDanyang
 	url = git@github.com:ldyyukito/pos.git
+[submodule "YaoDanping"]
+	path = YaoDanping
+	url = git@github.com:AnliHuer/Pos.git
+[submodule "YangLin"]
+	path = YangLin
+	url = git@github.com:anlin-yang/pos.git
+[submodule "PanChen"]
+	path = PanChen
+	url = git@github.com:SherryPann/pos.git
+[submodule "XiXi"]
+	path = XiXi
+	url = git@github.com:lotusscofield/pos.git

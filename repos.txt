@@ -1,3 +1,7 @@
 SunTianjing git@github.com:purpletianjing/pos.git
 CaoRong git@github.com:urnotchrissie/Pos.git
 LiDanyang git@github.com:ldyyukito/pos.git
+YangLin git@github.com:anlin-yang/pos.git
+PanChen git@github.com:SherryPann/pos.git
+XiXi git@github.com:lotusscofield/pos.git
+YaoDanping git@github.com:AnliHuer/Pos.git
