@@ -5,3 +5,4 @@ YangLin git@github.com:anlin-yang/pos.git
 PanChen git@github.com:SherryPann/pos.git
 XiXi git@github.com:lotusscofield/pos.git
 YaoDanping git@github.com:AnliHuer/Pos.git
+LiuXinyu git@github.com:Carolineliu/pos.git
