@@ -1,1 +1,3 @@
 SunTianjing git@github.com:purpletianjing/pos.git
+CaoRong git@github.com:urnotchrissie/Pos.git
+LiDanyang git@github.com:ldyyukito/pos.git

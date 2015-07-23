@@ -1,3 +1,9 @@
 [submodule "SunTianjing"]
 	path = SunTianjing
 	url = git@github.com:purpletianjing/pos.git
+[submodule "CaoRong"]
+	path = CaoRong
+	url = git@github.com:urnotchrissie/Pos.git
+[submodule "LiDanyang"]
+	path = LiDanyang
+	url = git@github.com:ldyyukito/pos.git
