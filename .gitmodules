@@ -25,3 +25,6 @@
 [submodule "LiuXinyu"]
 	path = LiuXinyu
 	url = git@github.com:Carolineliu/pos.git
+[submodule "ShiDandi"]
+	path = ShiDandi
+	url = git@github.com:Supersdd/pre-pos.git
