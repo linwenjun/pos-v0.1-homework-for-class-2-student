@@ -28,3 +28,6 @@
 [submodule "LiuXinyu"]
 	path = LiuXinyu
 	url = git@github.com:Carolineliu/pos.git
+[submodule "LiJia"]
+	path = LiJia
+	url = git@github.com:laetella/pos.git
